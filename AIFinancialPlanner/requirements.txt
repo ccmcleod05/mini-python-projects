@@ -1,0 +1,6 @@
+openai
+Flask
+plaid-python===9.1.0
+python-dotenv
+flask_cors
+pyopenssl
